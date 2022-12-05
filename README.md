@@ -15,5 +15,5 @@
   <img src="https://img.shields.io/badge/IDE-PyCharm-D22128?style=flat&logo=PyCharm&logoColor=white"> 
   <img src="https://img.shields.io/badge/Library-pandas-563D7C?style=flat&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/Library-scikit_learn-563D7C?style=flat&logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/Library-SciPy563D7C?style=flat&logo=SciPy&logoColor=white">
+  <img src="https://img.shields.io/badge/Library-SciPy-563D7C?style=flat&logo=SciPy&logoColor=white">
 </p>
